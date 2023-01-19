@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Obesity_Calculator_App</string>
+    <string name="todo">TODO</string>
+    <string name="reSult">결과가 표시되는 곳</string>
+</resources>
